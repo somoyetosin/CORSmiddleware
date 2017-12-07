@@ -1,0 +1,22 @@
+{
+  "name": "corsmiddleware",
+  "version": "1.0.0",
+  "description": "CORS Middleware",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somoyetosin/CORSmiddleware.git"
+  },
+  "author": "Martins Somoye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somoyetosin/CORSmiddleware/issues"
+  },
+  "homepage": "https://github.com/somoyetosin/CORSmiddleware#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
